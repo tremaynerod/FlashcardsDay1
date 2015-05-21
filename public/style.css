@@ -43,6 +43,12 @@
   margin-top: 50px;
   font-weight: bold; }
   .answer-feedback.correct {
-    color: green; }
+    color: green;
+    background: url(http://www.clipartbest.com/cliparts/pT5/L46/pT5L46bTB.png) 30% center no-repeat;
+    background-size: auto 100%; }
   .answer-feedback.incorrect {
-    color: red; }
+    color: red;
+    background: url(http://www.clipartbest.com/cliparts/9i4/zry/9i4zryxAT.png) no-repeat 30% center;
+    background-size: auto 100%; }
+
+/*# sourceMappingURL=style.css.map */
